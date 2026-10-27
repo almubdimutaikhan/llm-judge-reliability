@@ -1,0 +1,65 @@
+{
+  "snapshot_date": "2026-10-27",
+  "files": [
+    {
+      "source_project": "triz-on-vs-off-agent",
+      "source_path": "results/main/judgements.csv",
+      "source_sha256": "eb61873abc0ff0024259bc64a179d78284286204ca0def54599e39189c1de013",
+      "export": "data/jury.csv",
+      "export_sha256": "e3647eb011f2d2b7f9b2bfa999821ca2f37892a55a4cd334e8b7f5237af5f84d",
+      "rows": 6768
+    },
+    {
+      "source_project": "bvsr-llm-creativity",
+      "source_path": "results/mitigation/calls.csv",
+      "source_sha256": "e4aeb2bfb6515b47bd7b67b1a348ac3c24d9a1e3d0da7c6d126ac8c00b3446ad",
+      "export": "data/selection.csv",
+      "export_sha256": "f2b017af1fe311fcd4269a8ae9381af5b16f9757da42759f472fe98d7c143e97",
+      "rows": 2714
+    },
+    {
+      "source_project": "bvsr-llm-creativity",
+      "source_path": "results/mitigation/determinism.csv",
+      "source_sha256": "5be046693adf513f931fd9060a9d38afba3ca1ab6b80338e55f9e1468ae4a381",
+      "export": "data/same_order.csv",
+      "export_sha256": "c2d2b76f33beb82d5e445920e365ca8d40529829b17c035f59fad3867f632890",
+      "rows": 90
+    },
+    {
+      "source_project": "bvsr-llm-creativity",
+      "source_path": "results/mitigation/victim_diversity.csv",
+      "source_sha256": "95986f5b527b5092268745ad642f8749f15c23d7739272c0214eaba465640b54",
+      "export": "data/permutations.csv",
+      "export_sha256": "9ac27870d55972319d212e5d3621455b88a6edcf52642daf5d5b7d967e4528bc",
+      "rows": 750
+    },
+    {
+      "source_project": "bvsr-llm-creativity",
+      "source_path": "results/mitigation/survival.csv",
+      "source_sha256": "a2e44ffe16bc516a11f16c7acd07e4faeceabc7aee46d0d4d9c348b41524f866",
+      "export": "data/sessions.csv",
+      "export_sha256": "9e899fa58d34232a8624764a655e97dbb4c325ff5df88bf8916926bb7b44794e",
+      "rows": 399
+    },
+    {
+      "source_project": "bvsr-llm-creativity",
+      "source_path": "results/resolution/rankings.csv",
+      "source_sha256": "7b570470cd72e2198b59f2ecfa045366436c84c9ffb39b905cf072269882563a",
+      "export": "data/resolution.csv",
+      "export_sha256": "a2755e768bc9ce7b175e7b3782b3fd2bf35036191c33ce0092583215ad880113",
+      "rows": 5844
+    }
+  ],
+  "sources": [
+    {
+      "project": "triz-on-vs-off-agent",
+      "head": "d4d6be4b264afe63d99388d19507c9c83e5ce4ed",
+      "uncommitted_changes": true
+    },
+    {
+      "project": "bvsr-llm-creativity",
+      "head": "ef10d8e9f48c090f6cb1a8f9fe25079e03529e2b",
+      "uncommitted_changes": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this analysis repository and the original studies listed in docs/REFERENCES.md."
+type: software
+title: "LLM judge preferences and creative selection"
+authors:
+  - family-names: Mutaikhan
+    given-names: Almubdi
+version: 0.1.0
+date-released: 2026-10-27
+url: "https://github.com/almubdimutaikhan/llm-judge-reliability"
+repository-code: "https://github.com/almubdimutaikhan/llm-judge-reliability"

@@ -1,0 +1,7 @@
+judge,condition,trials,valid_trials,agreement
+anthropic/claude-sonnet-5,rank,15,15,0.26666666666666666
+anthropic/claude-sonnet-5,score_batch,15,15,0.6
+deepseek/deepseek-chat-v3.1,rank,15,15,0.4666666666666667
+deepseek/deepseek-chat-v3.1,score_batch,15,15,0.5333333333333333
+google/gemini-2.5-flash,rank,15,15,0.8666666666666667
+google/gemini-2.5-flash,score_batch,15,15,0.8666666666666667
